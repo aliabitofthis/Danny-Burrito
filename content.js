@@ -1,12 +1,10 @@
 // content.js
 const dannyDevito = [
-    "https://raw.githubusercontent.com/SethBurkart123/Danidevito/main/content/devito/devito.jpeg",
-    "https://raw.githubusercontent.com/SethBurkart123/Danidevito/main/content/devito/devito2.jpeg",
-    "https://raw.githubusercontent.com/SethBurkart123/Danidevito/main/content/devito/devito3.jpeg",
-    "https://raw.githubusercontent.com/SethBurkart123/Danidevito/main/content/devito/devito4.jpeg",
-    "https://raw.githubusercontent.com/SethBurkart123/Danidevito/main/content/devito/devito5.jpeg",
-    "https://raw.githubusercontent.com/SethBurkart123/Danidevito/main/content/devito/devito6.jpeg",
-    "https://raw.githubusercontent.com/SethBurkart123/Danidevito/main/content/devito/devito7.jpeg"
+    "https://github.com/aliabitofthis/Danny-Burrito/blob/main/dannyDorito.jpg?raw=true",
+  
+    "https://github.com/aliabitofthis/Danny-Burrito/blob/main/dannyBurrito.png?raw=true",
+  
+    "https://github.com/aliabitofthis/Danny-Burrito/blob/main/a%20nice%20egg%20in%20this%20trying%20time.jpg?raw=true",
 ];
 
 const changeImg = () => {
